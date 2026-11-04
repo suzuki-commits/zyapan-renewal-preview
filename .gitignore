@@ -1,0 +1,10 @@
+.omc/
+qa/
+*.log
+last.txt
+prompt_renewal.txt
+qa-report.json
+renewal-manifest.json
+run_codex.bat
+sources.json
+publication.json
